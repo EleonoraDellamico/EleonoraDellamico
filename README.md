@@ -1,5 +1,5 @@
 ### Hi there 👋
-![EliImage](https://user-images.githubusercontent.com/70522059/102541121-50dcc700-40b0-11eb-9568-aa78832dc3f8.jpeg)
+![EliNotte](https://user-images.githubusercontent.com/70522059/102546944-b0d76b80-40b8-11eb-9568-f6326fe40da2.jpeg)
 <!--
 **EleonoraDellamico/EleonoraDellamico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
