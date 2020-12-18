@@ -8,5 +8,5 @@
 - 💼    <a href="https://www.linkedin.com/in/eleonora-dell-amico/">LinkedIn</a> 
 - ⚠️     <a href="https://codepen.io/Eli__E">CodePen👩‍💻 (Working in progress)</a> 
 - 📧    <a href="https://mail.google.com/mail/u/0/#inbox">Email</a> 
-
+- 🔗  <a href="https://twitter.com/eli_ucora">Twitter</a> 
 
