@@ -1,4 +1,5 @@
 ### Hello world --> was my first line of code😬 
+![WhatsApp Image 2020-12-26 at 13 20 37](https://user-images.githubusercontent.com/70522059/103151338-8e5ee580-477d-11eb-8e11-19e9bfd31885.jpeg)
 
 ✨ Sociologist holding a Master Degree in Human Resources, after an amazing experience working in a start-up and digging deeper into Web sites and UX, I decided to take a great step towards the IT World and become a Front End Developer💻 I did different courses about User Research and I love it.📑 My motto is “'If we're growing, we're always going to be out of our comfort zone.'🧗‍♀️(John Maxwell).
  ✨ 
