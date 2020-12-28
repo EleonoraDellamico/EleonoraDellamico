@@ -1,4 +1,4 @@
-### Hello world --> was my first line of code😬 
+### Hello world --> was my first line of code <img src="https://img.icons8.com/color/48/000000/pixar-lamp.png"/>
 ![WhatsApp Image 2020-12-26 at 13 20 37](https://user-images.githubusercontent.com/70522059/103151338-8e5ee580-477d-11eb-8e11-19e9bfd31885.jpeg)
 
 ✨ I'm Eleonora becoming a **Frontend developer** after an amazing experience working in a **start-up** and digging deeper into **Web sites and UX**. 
@@ -10,8 +10,7 @@ In addition I'm a sociologist  holding a master in human resources. I think stud
  
  
 ## Find me around the web 🌎: 
-- 💼    <a href="https://www.linkedin.com/in/eleonora-dell-amico/">LinkedIn</a> 
-- ⚠️     <a href="https://codepen.io/Eli__E">CodePen👩‍💻 (Working in progress)</a> 
-- 📧    <a href="https://mail.google.com/mail/u/0/#inbox">Email</a> 
-- 🔗  <a href="https://twitter.com/eli_ucora">Twitter</a> 
+-  <a href="https://www.linkedin.com/in/eleonora-dell-amico/"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/></a> 
+- <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.icons8.com/bubbles/50/000000/email.png"/> </a> 
+- <a href="https://twitter.com/eli_ucora"><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/></a> 
 
