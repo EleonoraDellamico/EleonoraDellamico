@@ -12,10 +12,10 @@ kNOWLEDGE |
 ------------ |
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/fluent-systems-filled/48/ffffff/css-filetype.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/ffffff/react-native.png"/>
 
-* Find me around the web 🌎: 
- * <a href="https://www.linkedin.com/in/eleonora-dell-amico/"><img src="https://img.icons8.com/fluent/48/ffffff/linkedin.png"/></a> 
- * <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.icons8.com/fluent/48/ffffff/email-open.png"/> </a> 
- * <a href="https://twitter.com/eli_ucora"><img src="https://img.icons8.com/fluent/48/ffffff/twitter.png"/> </a> 
+Find me around the web 🌎: 
+<a href="https://www.linkedin.com/in/eleonora-dell-amico/"><img src="https://img.icons8.com/fluent/48/ffffff/linkedin.png"/></a> 
+<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.icons8.com/fluent/48/ffffff/email-open.png"/> </a> 
+<a href="https://twitter.com/eli_ucora"><img src="https://img.icons8.com/fluent/48/ffffff/twitter.png"/> </a> 
 
 
    
