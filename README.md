@@ -14,6 +14,6 @@ kNOWLEDGE |
 
 ### Find me around the web 🌎: 
 -  <a href="https://www.linkedin.com/in/eleonora-dell-amico/"><img src="https://img.icons8.com/fluent/48/ffffff/linkedin.png"/></a> 
-- <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.icons8.com/bubbles/50/000000/email.png"/> </a> 
-- <a href="https://twitter.com/eli_ucora"><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/></a> 
+- <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.icons8.com/fluent/48/ffffff/email-open.png"/> </a> 
+- <a href="https://twitter.com/eli_ucora"><img src="https://img.icons8.com/fluent/48/ffffff/twitter.png"/> </a> 
 
