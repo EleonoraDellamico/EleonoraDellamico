@@ -10,18 +10,22 @@ I think study human 🧬 behavior it's extremely important in this job for this 
 
 I'm still studying hard to achive a better level of coding and thank to this community that inspire me every day I'm really excited to fulfil my goal 🎯.
 
-📑 My motto is 
+📑 My motto is:
 > “'If we're growing, we're always going to be out of our comfort zone.'
 > 🧗‍♀️(John Maxwell). ✨
  
 kNOWLEDGE | 
 ------------ |
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/fluent-systems-filled/48/ffffff/css-filetype.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/ffffff/react-native.png"/>
+![html](https://img.icons8.com/color/48/000000/html-5.png) ![css](https://img.icons8.com/fluent-systems-filled/48/ffffff/css-filetype.png) ![sass](https://img.icons8.com/color/48/000000/sass.png)![javascript](https://img.icons8.com/color/48/000000/javascript.png)![react](https://img.icons8.com/color/48/ffffff/react-native.png)
 
- <img src="https://img.icons8.com/android/24/ffffff/world-map.png"/> Find me around the web: 
-* <a href="https://www.linkedin.com/in/eleonora-dell-amico/"><img src="https://img.icons8.com/fluent/48/ffffff/linkedin.png"/></a> 
-* <a href="mailto:eleonoradellamico4@gmail.com"><img src="https://img.icons8.com/fluent/48/ffffff/email-open.png"/> </a> 
-* <a href="https://twitter.com/eli_ucora"><img src="https://img.icons8.com/fluent/48/ffffff/twitter.png"/> </a> 
+![map world](https://img.icons8.com/android/24/ffffff/world-map.png)Find me around the web: 
+
+[![Linkedin profile](https://img.icons8.com/fluent/48/ffffff/linkedin.png)](https://www.linkedin.com/in/eleonora-dell-amico/)
+ 
+[![Email ](https://img.icons8.com/fluent/48/ffffff/email-open.png)]("mailto:eleonoradellamico4@gmail.com)
+
+[![Twitter profile](https://img.icons8.com/fluent/48/ffffff/twitter.png)](https://twitter.com/eli_ucora)
+
 
 
    
