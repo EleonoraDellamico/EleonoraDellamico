@@ -22,7 +22,7 @@ Find me around the web:
 
 [![Linkedin profile](https://img.icons8.com/fluent/48/ffffff/linkedin.png)](https://www.linkedin.com/in/eleonora-dell-amico/)
  
-[![Email ](https://img.icons8.com/fluent/48/ffffff/email-open.png)]("mailto:eleonoradellamico4@gmail.com)
+[![Email ](https://img.icons8.com/fluent/48/ffffff/email-open.png)](mailto:eleonoradellamico4@gmail.com)
 
 [![Twitter profile](https://img.icons8.com/fluent/48/ffffff/twitter.png)](https://twitter.com/eli_ucora)
 
