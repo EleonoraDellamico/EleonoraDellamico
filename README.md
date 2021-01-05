@@ -16,7 +16,7 @@ I'm still studying hard to achive a better level of coding and thank to this com
  
 kNOWLEDGE | 
 ------------ |
-![html](https://img.icons8.com/color/48/000000/html-5.png) ![css](https://img.icons8.com/fluent-systems-filled/48/ffffff/css-filetype.png) ![sass](https://img.icons8.com/color/48/000000/sass.png)![javascript](https://img.icons8.com/color/48/000000/javascript.png)![react](https://img.icons8.com/color/48/ffffff/react-native.png)
+![html](https://img.icons8.com/color/48/000000/html-5.png) ![css](https://img.icons8.com/officel/40/000000/css-filetype.png) ![sass](https://img.icons8.com/color/48/000000/sass.png)![javascript](https://img.icons8.com/color/48/000000/javascript.png)![react](https://img.icons8.com/color/48/ffffff/react-native.png)
 
 Find me around the web: 
 
