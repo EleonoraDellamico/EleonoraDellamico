@@ -18,7 +18,7 @@ kNOWLEDGE |
 ------------ |
 ![html](https://img.icons8.com/color/48/000000/html-5.png) ![css](https://img.icons8.com/fluent-systems-filled/48/ffffff/css-filetype.png) ![sass](https://img.icons8.com/color/48/000000/sass.png)![javascript](https://img.icons8.com/color/48/000000/javascript.png)![react](https://img.icons8.com/color/48/ffffff/react-native.png)
 
-![map world](https://img.icons8.com/android/24/ffffff/world-map.png)Find me around the web: 
+Find me around the web: 
 
 [![Linkedin profile](https://img.icons8.com/fluent/48/ffffff/linkedin.png)](https://www.linkedin.com/in/eleonora-dell-amico/)
  
