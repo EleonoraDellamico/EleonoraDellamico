@@ -24,8 +24,6 @@ Find me around the web:
  
 [![Email ](https://img.icons8.com/fluent/48/ffffff/email-open.png)](mailto:eleonoradellamico4@gmail.com)
 
-[![Twitter profile](https://img.icons8.com/fluent/48/ffffff/twitter.png)](https://twitter.com/eli_ucora)
-
 
 
    
